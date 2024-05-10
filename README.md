@@ -1,4 +1,4 @@
-# Ex.1a  			Study of Socket Programming
+# Ex.1a STUDY OF SOCKET PROGRAMMING
 
 ## Aim: 
 To perform a study on Socket Programming
@@ -90,8 +90,10 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## Output:
+### CLIENT:
 ![alt text](<client exp2.png>)
 
+### SERVER:
 ![alt text](<server exp2.png>)
 ## Result:
 Thus the study of Socket Programming Completed Successfully.
